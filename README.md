@@ -5,10 +5,9 @@ I work on **reinforcement learning** and **generative models**, with a particula
 ## 🔬 What I'm working on
  
 - **Maximum-likelihood RL**: replicating the MaxRL paper ([maximum-likelihood-rl](https://github.com/marcophillip/maximum-likelihood-rl))
-- **Ambient scribe inference**: <!-- TODO: one line on what this does --> ([ambient-scribe-inference](https://github.com/marcophillip/ambient-scribe-inference))
 - **RL post-training for LLMs**: experimenting with [verl](https://github.com/marcophillip/verl) and [hf](http://huggingface.co/)
-- **MonteCarlo Tree diffusion for system 2 thinking (replicating a paper)
-- **Discrete Diffusion models
+- **MonteCarlo Tree diffusion for system 2 thinking** (replicating a paper)
+- **Discrete Diffusion models**
 ## 🧪 Selected projects
  
 | Project | What it is |
